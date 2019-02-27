@@ -1,2 +1,2 @@
 # RecordTracker
-JavaFX school assignment
+JavaFX school assignment.
